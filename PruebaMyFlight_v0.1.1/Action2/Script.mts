@@ -1,5 +1,6 @@
 ﻿'***** Reservar viaje
 '*** Actualización 01
+'*** Actualización 02
 
 WpfWindow("HPE MyFlight Sample Applicatio").WpfComboBox("fromCity").Select "Frankfurt" @@ hightlight id_;_1970380952_;_script infofile_;_ZIP::ssf4.xml_;_
 WpfWindow("HPE MyFlight Sample Applicatio").WpfComboBox("toCity").Select "London" @@ hightlight id_;_2029966648_;_script infofile_;_ZIP::ssf8.xml_;_
