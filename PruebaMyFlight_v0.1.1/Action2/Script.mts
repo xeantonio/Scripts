@@ -1,11 +1,12 @@
 ﻿'***** Reservar viaje
 '*** Actualización 01
 '*** Actualización 02
+'*** Actualización 03
 
 WpfWindow("HPE MyFlight Sample Applicatio").WpfComboBox("fromCity").Select "Frankfurt" @@ hightlight id_;_1970380952_;_script infofile_;_ZIP::ssf4.xml_;_
 WpfWindow("HPE MyFlight Sample Applicatio").WpfComboBox("toCity").Select "London" @@ hightlight id_;_2029966648_;_script infofile_;_ZIP::ssf8.xml_;_
 WpfWindow("HPE MyFlight Sample Applicatio").WpfImage("WpfImage_3").Click 12,10 @@ hightlight id_;_1974716792_;_script infofile_;_ZIP::ssf9.xml_;_
-WpfWindow("HPE MyFlight Sample Applicatio").WpfCalendar("do.").SetDate "30-Sep-2018" @@ hightlight id_;_1974718856_;_script infofile_;_ZIP::ssf10.xml_;_
+WpfWindow("HPE MyFlight Sample Applicatio").WpfCalendar("do.").SetDate "30-Sep-2019" @@ hightlight id_;_1974718856_;_script infofile_;_ZIP::ssf10.xml_;_
 WpfWindow("HPE MyFlight Sample Applicatio").WpfComboBox("Class").Select "Business" @@ hightlight id_;_2029972744_;_script infofile_;_ZIP::ssf14.xml_;_
 WpfWindow("HPE MyFlight Sample Applicatio").WpfComboBox("numOfTickets").Select "2" @@ hightlight id_;_2029979128_;_script infofile_;_ZIP::ssf18.xml_;_
 WpfWindow("HPE MyFlight Sample Applicatio").WpfButton("FIND FLIGHTS").Click @@ hightlight id_;_2000781912_;_script infofile_;_ZIP::ssf19.xml_;_
