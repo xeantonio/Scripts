@@ -2,6 +2,7 @@
 '*** Actualización 01
 '*** Actualización 02
 '*** Actualización 03
+'*** Actualización 04
 
 WpfWindow("HPE MyFlight Sample Applicatio").WpfComboBox("fromCity").Select DataTable("p_Cd_Origen", dtGlobalSheet) @@ hightlight id_;_1970380952_;_script infofile_;_ZIP::ssf4.xml_;_
 WpfWindow("HPE MyFlight Sample Applicatio").WpfComboBox("toCity").Select DataTable("p_Cd_Destino", dtGlobalSheet) @@ hightlight id_;_2029966648_;_script infofile_;_ZIP::ssf8.xml_;_
